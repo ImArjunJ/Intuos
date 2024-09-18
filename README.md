@@ -12,7 +12,7 @@ There are some features I wish to add in the future, and while this is working, 
 
 Once you have CMake, you can follow these steps:
 
-1. Clone the repository: `git clone --recursive https://github.com/JustCabbage/Intuos.git`
+1. Clone the repository: `git clone --recursive https://github.com/ImArjunJ/Intuos.git`
 2. Navigate to the project directory: `cd Intuos`
 3. Create a build directory: `mkdir build && cd build`
 4. Generate the build files: `cmake ..`
@@ -22,8 +22,8 @@ Once you have CMake, you can follow these steps:
 
 As mentioned previously, Intuos currently only supports Windows.
 
-> If you encounter any issues or have any questions, please feel free to [open an issue](https://github.com/JustCabbage/Intuos/issues).
+> If you encounter any issues or have any questions, please feel free to [open an issue](https://github.com/ImArjunJ/Intuos/issues).
 
 ## License
 
-Intuos is currently licensed under the [MIT License](https://github.com/JustCabbage/Intuos/blob/master/LICENSE).
+Intuos is currently licensed under the [MIT License](https://github.com/ImArjunJ/Intuos/blob/master/LICENSE).
